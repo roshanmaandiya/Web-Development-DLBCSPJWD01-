@@ -1,3 +1,5 @@
+http://127.0.0.1:5500/index.html
+
 Installation Instructions: 
 
 1. Clone the repository:
@@ -18,6 +20,5 @@ Installation Instructions:
    - Start the local development server by running:
     “ npm start”
 
-   - Once started, the application should be accessible at:
-   “  http://localhost:3000 “
+  The application should be accessible at `http://localhost:5500`
 

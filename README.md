@@ -13,10 +13,8 @@ Installation Instructions:
  - Install the required dependencies by running:
   “  npm install ”
 
-3. Set up the database:
-   - Follow the instructions for database setup provided in the project's database documentation.
 
-4. Run the server locally:
+3. Run the server locally:
    - Start the local development server by running:
     “ npm start”
 
